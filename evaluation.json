@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "Footwork": {
+      "score": 3.0,
+      "comment": "Needs work on plant direction and stability."
+    },
+    "Head Position": {
+      "score": 3.1,
+      "comment": "Needs work on keeping head over the front knee."
+    },
+    "Swing Control": {
+      "score": 7.0,
+      "comment": "Good elbow path, can be more consistent."
+    },
+    "Balance": {
+      "score": 8.8,
+      "comment": "Excellent spine balance."
+    },
+    "Follow-through": {
+      "score": 7.8,
+      "comment": "Good finish position, can be more consistent."
+    }
+  },
+  "meta": {
+    "frames_read": 272,
+    "frames_written": 272,
+    "avg_fps": 16.66
+  }
+}
